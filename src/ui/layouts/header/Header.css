@@ -40,7 +40,7 @@
 }
 
 .nav-normal .container-menu > a {
-    font-size: 1rem;
+    font-size: clamp(0.8rem, 1.2vw, 1rem);
     padding: 0.1rem;
     border-bottom: 1px solid transparent;
     cursor: pointer;

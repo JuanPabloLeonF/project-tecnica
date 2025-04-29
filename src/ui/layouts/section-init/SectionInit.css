@@ -278,7 +278,7 @@
     .container-init .container-info-init {
         width: 100%;
         flex-direction: column;
-        padding: 0.5rem;
+        padding: 1.5rem;
     }
 
     .container-init .container-info-init > a {

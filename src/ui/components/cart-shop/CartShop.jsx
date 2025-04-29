@@ -1,5 +1,4 @@
 import "./CartShop.css"
-import cartShopVacio from "/imgs/cart-shop-vacio.svg"
 import { useContext } from "react"
 import { contextAppCreate } from "../../../domain/context/app/ProviderApp"
 import { Item } from "../item/Item"
@@ -43,7 +42,7 @@ export const CartShop = () => {
                     </>
                 ) : (
                     <>
-                        <img src={cartShopVacio} alt="cart-shop-vacio" />
+                        <img src="imgs/cart-shop-vacio.svg" alt="cart-shop-vacio" />
                     </>
                 )}
             </div>
