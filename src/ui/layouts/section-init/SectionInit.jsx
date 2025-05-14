@@ -54,7 +54,7 @@ export const SectionInit = () => {
                         </a>
                     </div>
                     <h3>Los mejores productos</h3>
-                    <p>Aquí podría ir el eslogan de la empresa</p>
+                    <p>Tu universo tecnológico en un solo lugar</p>
                     <a href="#products">Productos</a>
                 </div>
                 <div className="container-imgs-carousel">

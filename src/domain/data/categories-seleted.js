@@ -7,7 +7,7 @@ export const listCategoriesSelected = [
     },
     {
         id: 2,
-        name: "Portatiles",
+        name: "Portátiles",
         nameCategory: "portatiles",
         imgUrl: "imgs/2.jpg"
     },
@@ -37,7 +37,7 @@ export const listCategoriesSelected = [
     },
     {
         id: 7,
-        name: "Camaras",
+        name: "Cámaras",
         nameCategory: "camaras",
         imgUrl: "imgs/6.jpg"
     }

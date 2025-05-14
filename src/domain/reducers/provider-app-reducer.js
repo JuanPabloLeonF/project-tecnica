@@ -123,6 +123,14 @@ export const useProviderReducer = (state, action) => {
                 ...state,
                 activateCardProduct: action.payload
             }
+        case "SET_CLEAR_CART_SHOP":
+            return {
+                ...state,
+                cartShopData: {
+                    productsList: [],
+                    totalPrice: 0
+                }
+            }
         default:
             return state;
     }

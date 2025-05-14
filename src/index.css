@@ -121,3 +121,8 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.strong {
+  font-weight: 200;
+  color: var(--three-color);
+}

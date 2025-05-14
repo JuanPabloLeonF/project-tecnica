@@ -1,9 +1,12 @@
 import "./CartShop.css"
 import { useContext } from "react"
 import { contextAppCreate } from "../../../domain/context/app/ProviderApp"
+import { useNavigate } from "react-router-dom"
 import { Item } from "../item/Item"
 
 export const CartShop = () => {
+
+    const navigate = useNavigate();
 
     const {
         dispatch,
@@ -13,6 +16,11 @@ export const CartShop = () => {
     const handlerCloseCartShop = () => {
         dispatch({ type: "SET_ACTIVATE_CART", payload: false });
     }
+
+    const handlerRedirectToPayment = () => {
+        navigate("/project-tecnica/payment");
+    }
+    
 
     return (
         <>
@@ -37,7 +45,7 @@ export const CartShop = () => {
                                 <p>Total:</p>
                                 <p>$ {cartShopData.totalPrice}</p>
                             </div>
-                            <button type="button">Realizar compra</button>
+                            <button onClick={handlerRedirectToPayment} type="button">Realizar compra</button>
                         </div>
                     </>
                 ) : (

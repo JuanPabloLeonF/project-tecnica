@@ -40,7 +40,7 @@
     max-width: var(--max-width);
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 30rem;    
+    grid-template-rows: auto;    
     place-content: center;
     gap: 1rem;
     align-items: center;
@@ -76,7 +76,6 @@
     color: var(--secondary-color);
     border-bottom: 1px solid var(--secondary-color);
 }
-
 
 @media (max-width: 768px) {
     .section-about-me .container-about-me-grid .about-me-item {
