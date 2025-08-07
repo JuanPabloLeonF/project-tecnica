@@ -7,38 +7,44 @@ export const listCategoriesSelected = [
     },
     {
         id: 2,
-        name: "Portátiles",
-        nameCategory: "portatiles",
-        imgUrl: "imgs/2.jpg"
+        name: "Memorias",
+        nameCategory: "memorias",
+        imgUrl: "imgs/memorias.png"
     },
     {
         id: 3,
-        name: "Tablets",
-        nameCategory: "tablets",
-        imgUrl: "imgs/3.jpg"
+        name: "Cargadores",
+        nameCategory: "cargadores",
+        imgUrl: "imgs/cargadores.png"
     },
     {
         id: 4,
-        name: "Conjuntos",
-        nameCategory: "conjuntos",
-        imgUrl: "imgs/4.jpg"
+        name: "Mouses",
+        nameCategory: "mouses",
+        imgUrl: "imgs/mouses.png"
     },
     {
         id: 5,
-        name: "Accesorios",
-        nameCategory: "accesorios",
-        imgUrl: "imgs/5.jpg"
+        name: "Procesadores",
+        nameCategory: "procesadores",
+        imgUrl: "imgs/procesadores.png"
     },
     {
         id: 6,
-        name: "Escritorio",
-        nameCategory: "escritorio",
-        imgUrl: "imgs/6.jpg"
+        name: "Teclados",
+        nameCategory: "teclados",
+        imgUrl: "imgs/teclados.png"
     },
     {
         id: 7,
-        name: "Cámaras",
-        nameCategory: "camaras",
-        imgUrl: "imgs/6.jpg"
+        name: "Ventiladores",
+        nameCategory: "ventiladores",
+        imgUrl: "imgs/ventiladores.png"
+    },
+    {
+        id: 8,
+        name: "Bocinas",
+        nameCategory: "bocinas",
+        imgUrl: "imgs/bocinas.png"
     }
 ]
