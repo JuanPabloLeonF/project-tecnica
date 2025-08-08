@@ -6,22 +6,19 @@ export const SectionMarks = () => {
             <h2>Marcas aliadas</h2>
             <div className="container-marks">
                 <div className="container-img-mark">
-                    <img src="imgs/1.jpg" alt="marca" />
+                    <img src="imgs/hp.png" alt="marca" />
                 </div>
                 <div className="container-img-mark">
-                    <img src="imgs/2.jpg" alt="marca" />
+                    <img src="imgs/lenovo.jpg" alt="marca" />
                 </div>
                 <div className="container-img-mark">
-                    <img src="imgs/3.jpg" alt="marca" />
+                    <img src="imgs/asus.jpg" alt="marca" />
                 </div>
                 <div className="container-img-mark">
-                    <img src="imgs/4.jpg" alt="marca" />
+                    <img src="imgs/sony.webp" alt="marca" />
                 </div>
                 <div className="container-img-mark">
-                    <img src="imgs/5.jpg" alt="marca" />
-                </div>
-                <div className="container-img-mark">
-                    <img src="imgs/6.jpg" alt="marca" />
+                    <img src="imgs/lg.jpg" alt="marca" />
                 </div>
             </div>
         </section>

@@ -33,7 +33,7 @@ export const SectionAboutMe = () => {
                     </p>
                     </div>
                     <div className="container-about-me-img">
-                        <img src="imgs/2.jpg" alt="imagen de empresa 2" />
+                        <img src="imgs/1.jpg" alt="imagen de empresa 2" />
                     </div>
                 </div>
             </div>

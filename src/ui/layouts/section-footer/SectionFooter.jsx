@@ -11,22 +11,22 @@ export const SectionFooter = () => {
                     </p>
                 </div>
                 <div className="container-info-people">
-                    <h3>Integrantes dl grupo</h3>
+                    <h3>Integrantes del grupo</h3>
                     <div className="container-people">
                         <i className="fa-solid fa-arrow-right"></i>
-                        <p>Nombre integrante 1</p>
+                        <p>CAMILA FLOREZ GONZALEZ</p>
                     </div>
                     <div className="container-people">
                         <i className="fa-solid fa-arrow-right"></i>
-                        <p>Nombre integrante 2</p>
+                        <p>IBETH GUERRERO</p>
                     </div>
                     <div className="container-people">
                         <i className="fa-solid fa-arrow-right"></i>
-                        <p>Nombre integrante 3</p>
+                        <p>EYSAMAR CARDONA ORDOÑEZ</p>
                     </div>
                     <div className="container-people">
                         <i className="fa-solid fa-arrow-right"></i>
-                        <p>Nombre integrante 4</p>
+                        <p>MICHELL GALVIS</p>
                     </div>
                 </div>
                 <div className="container-info-contact">

@@ -9,42 +9,42 @@ export const listCategoriesSelected = [
         id: 2,
         name: "Memorias",
         nameCategory: "memorias",
-        imgUrl: "imgs/memorias.png"
+        imgUrl: "imgs/memorias.webp"
     },
     {
         id: 3,
         name: "Cargadores",
         nameCategory: "cargadores",
-        imgUrl: "imgs/cargadores.png"
+        imgUrl: "imgs/cargadores.webp"
     },
     {
         id: 4,
         name: "Mouses",
         nameCategory: "mouses",
-        imgUrl: "imgs/mouses.png"
+        imgUrl: "imgs/mouses.webp"
     },
     {
         id: 5,
         name: "Procesadores",
         nameCategory: "procesadores",
-        imgUrl: "imgs/procesadores.png"
+        imgUrl: "imgs/procesadores.webp"
     },
     {
         id: 6,
         name: "Teclados",
         nameCategory: "teclados",
-        imgUrl: "imgs/teclados.png"
+        imgUrl: "imgs/teclados.webp"
     },
     {
         id: 7,
         name: "Ventiladores",
         nameCategory: "ventiladores",
-        imgUrl: "imgs/ventiladores.png"
+        imgUrl: "imgs/ventiladores.webp"
     },
     {
         id: 8,
         name: "Bocinas",
         nameCategory: "bocinas",
-        imgUrl: "imgs/bocinas.png"
+        imgUrl: "imgs/bocinas.webp"
     }
 ]

@@ -184,7 +184,8 @@
 
 .container-show-products .container-list-products .container-product > p {
     background-color: var(--primary-opacity-color);
-    width: 3.5rem;
+    width: auto;
+    padding: 0.5rem;
     height: 2rem;
     position: absolute;
     top: 0;
