@@ -51,13 +51,6 @@ src/
 - Node.js (v16 o superior)
 - npm (v7 o superior) o yarn
 
-### Instalación
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/project-tecnica.git
-   cd project-tecnica
-   ```
 
 2. Instala las dependencias:
    ```bash
